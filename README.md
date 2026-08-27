@@ -185,6 +185,9 @@ To add new features:
 
 ---
 
+ ## Related Projects
+  - [STM32 Modbus RTU Slave]([https://github.com/rtvk007/stm32-modbus-rtu-slave.git]) - Embedded implementation
+
 ## 📚 Resources
 
 - [Modbus Protocol Specification](https://www.modbus.org/)
@@ -207,7 +210,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Your Name**  
+Rutvik Kajavadra 
 - GitHub: [rtvk007](https://github.com/rtvk007)
 - LinkedIn: [Rutvik Kajavadra](https://www.linkedin.com/in/rutvikembeddedcoder/)
 - Email: rkk0412@yahoo.com
